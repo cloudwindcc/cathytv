@@ -13,9 +13,9 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
-    url: 'h',
-    description: '免费视频',
+    name: 'CathyTV',
+    url: 'https://tv.cathy.wang/',
+    description: 'CathyTV 免费视频搜索',
     logo: 'image/logo.png',
     version: '1.0.3'
 };

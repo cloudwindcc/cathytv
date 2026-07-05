@@ -1,5 +1,5 @@
 {
-  "name": "libretv",
+  "name": "cathytv",
   "type": "module",
   "version": "1.1.0",
   "private": true,
@@ -8,7 +8,8 @@
   "license": "Apache-2.0",
   "scripts": {
     "dev": "nodemon server.mjs",
-    "start": "node server.mjs"
+    "start": "node server.mjs",
+    "verify:branding": "node scripts/verify-cathy-branding.mjs"
   },
   "dependencies": {
     "axios": "^1.9.0",
