@@ -1,2 +1,7 @@
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /api/
+Disallow: /functions/
+Disallow: /netlify/
+
+Sitemap: https://tv.cathy.wang/sitemap.xml
